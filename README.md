@@ -29,11 +29,10 @@ npm -v
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/caiopa3/API-Produtos-Sustentaveis.git
+cd API-Produtos-Sustentaveis
 ```
 
-> Troque `SEU_USUARIO` e `SEU_REPOSITORIO` pela URL real do seu GitHub.
 
 ---
 
@@ -51,12 +50,6 @@ Este projeto usa os pacotes `express` e `cors`. Para instalar, rode:
 
 ```bash
 npm install express cors
-```
-
-Ou, se já houver um `package.json`, apenas:
-
-```bash
-npm install
 ```
 
 ---
