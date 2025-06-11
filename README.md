@@ -75,6 +75,7 @@ Servidor rodando em http://localhost:3000
 A pasta `Site/` contém um exemplo simples de como consumir a API usando JavaScript no navegador.
 
 Você pode abrir o arquivo `index.html` diretamente no seu navegador para testar a integração com a API.
+Se os produtos estiverem aparecendo, funcionou!
 
 ---
 
