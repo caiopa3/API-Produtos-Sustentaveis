@@ -88,7 +88,7 @@ Se os produtos estiverem aparecendo, funcionou!
 
 ---
 
-🌐 Como Integrar com Front-End
+## 🌐 Como Integrar com Front-End
 Você pode consumir esta API facilmente em seu front-end com fetch():
 ```
 fetch('http://localhost:3000/produtos')
@@ -96,7 +96,7 @@ fetch('http://localhost:3000/produtos')
   .then(data => console.log(data))
   .catch(err => console.error(err));
   ```
-📚 Créditos Acadêmicos
+## 📚 Créditos Acadêmicos
 Este projeto foi desenvolvido como parte da disciplina Programação Web 3, do curso Técnico em Desenvolvimento de Sistemas, sob orientação dos professores Fátima e Cláudio.
 
 ## ❓Dúvidas?
